@@ -59,8 +59,30 @@ the EDA involve the exploring of the Data to answer some questions about the Dat
   - And Road Types
  5. Safety Intervention Cost.
 
-    
- 
+ ### Data Analysis
+ ``` in Power BI =
+Total Accident =
+COUNTA('Accident Reports'[AccidentID])
+```
+
+```in power bi
+Total Fatal Accident = CALCULATE(
+     COUNTROWS('Accident Reports'),
+         'Accident Reports'[Severity]="Fatal")
+```
+```in power bi
+Average Response Time =
+AVERAGE('Accident Reports'[Response Time Minutes])
+```   
+```in power bi
+Total Cost =
+SUM('Safety Interventions'[Cost])
+``` 
+
+ ```in power bi
+Total Vehicles in accident =
+COUNTA(Vehicles[Vehicle_ID])
+```
     
        
     
