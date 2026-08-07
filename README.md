@@ -168,7 +168,7 @@ Out of 9968 Vehicles Tracked in the Space of 3 Years, 1500 of them were involved
 #### A Pattern Analysis
 
 Analysis of this part of the accident data indicates that 
-cars recorded the highest number of road traffic accidents during clear weather conditions compared to all other weather categories. this trend suggests that favorable weather does not necessarily reduce accident occurrence. instead, the higher accident frequency during clear conditions is likely influenced by increased traffic volume, greater vehicle usage, and a tendency for drivers to travel at higher speeds or become less cautious when road conditions appear safe. This findings highlight the importance of maintaining safe driving practices regardless of weather conditions .
+cars recorded the highest number of road traffic accidents during clear weather conditions compared to all other weather categories. this trend suggests that favorable weather does not necessarily reduce accident occurrence. instead, the higher accident frequency during clear conditions is likely influenced by increased traffic volume, greater vehicle usage, and a tendency for drivers to travel at higher speeds or become less cautious when road conditions appear safe. This findings highlight the importance of maintaining safe driving practices regardless of weather conditions . This is a pattern that cut aross the 36 States of Nigeria Including FCT.
 
 ### Recommendations
 
